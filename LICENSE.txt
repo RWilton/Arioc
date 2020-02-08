@@ -1,8 +1,9 @@
 BSD 3-Clause License
 --------------------
 
-Copyright (c) 2020, RWilton
-All rights reserved.
+The Arioc software is copyright (c) 2015-2020 Johns Hopkins University.  All rights reserved.
+
+Arioc is open source software, distributed by the copyright holder under the BSD "3-clause" license:
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
