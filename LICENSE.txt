@@ -1,7 +1,6 @@
 BSD 3-Clause License
 
-Copyright notice: the Arioc software is copyright (c) 2015-2020 Johns Hopkins University and licensed
-under the terms of the BSD 3-clause license.
+Copyright notice: the Arioc software is copyright (c) 2015-2020 Johns Hopkins University and licensed under the terms of the BSD 3-clause license.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
