@@ -1,4 +1,4 @@
-### Arioc:  high-throughput read alignment with GPU-accelerated exploration of the seed-and-extend search space
+### Arioc:  GPU-accelerated DNA short-read alignment
 
 The Arioc software is documented in the user guide.  Download the user guide directly ([Arioc.guide.pdf](https://github.com/RWilton/Arioc/blob/master/Arioc.guide.pdf "Arioc user guide")) or as part of the current release (click [here](https://github.com/RWilton/Arioc/releases "Arioc releases")).
 
