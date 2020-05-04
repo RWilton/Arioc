@@ -7,8 +7,6 @@ The reference-genome index structures that Arioc uses are binary-encoded lookup 
 
 | genome | file | content |
 |-|-|-|
-| H sapiens | GRCh38.p12.zip | NCBI GRCh38 patch 12 (WGS) |
-| H sapiens | GRCh38.p12.zip | NCBI GRCh38 patch 12 (WGBS) |
 | H sapiens | GRCh38.p13.zip | NCBI GRCh38 patch 13 (WGS) |
 | H sapiens | GRCh38.p13.zip | NCBI GRCh38 patch 13 (WGBS) |
 | S cerevisiae | S_cerevisiae.zip |  S288C |
