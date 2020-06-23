@@ -9,8 +9,8 @@ The reference-genome index structures that Arioc uses are binary-encoded lookup 
 |-|-|-|
 | H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGS) |
 | H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGBS) |
-| S cerevisiae | S_cerevisiae.zip | S288C |
-| T aestivum | Triticum_40.zip | NCBI GCA_002220425.3 |
+| S cerevisiae | S_cerevisiae | S288C |
+| T aestivum | T_aestivum | NCBI GCA_002220425.3 (Triticum 4.0) |
 
 #### Related publications
 Wilton R, Budavari T, Langmead B, Wheelan SJ, Salzberg SL, Szalay AS.  **Arioc: high-throughput read alignment with GPU-accelerated exploration of the seed-and-extend search space.**  *PeerJ*. 2015, **3**:e808. [DOI:10.7717/peerj.808](https://doi.org/10.7717/peerj.808)
