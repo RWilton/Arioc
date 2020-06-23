@@ -4,6 +4,9 @@ The Arioc software is documented in the user guide.  Download the user guide dir
 
 #### Arioc-encoded reference genomes
 The reference-genome index structures that Arioc uses are binary-encoded lookup tables. Several interesting Arioc-encoded genomes ~~are~~ will soon be available for download from the FTP server of the Center for Computational Biology at Johns Hopkins University ([ftp://ftp.ccb.jhu.edu/pub/data/Arioc](https://tinyurl.com/AriocFTP)):
+[
+<a href="https://tinyurl.com/AriocFTP" target="_blank" rel="nofollow">ftp://ftp.ccb.jhu.edu/pub/data/Arioc</a>
+]
 
 | genome | subdirectory | content |
 |-|-|-|
