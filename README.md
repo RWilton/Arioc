@@ -3,13 +3,13 @@
 The Arioc software is documented in the user guide.  Download the user guide directly (click [here](https://github.com/RWilton/Arioc/blob/master/Arioc.guide.pdf "Arioc user guide")) or as part of the current release (click [here](https://github.com/RWilton/Arioc/releases "Arioc releases")).
 
 #### Arioc-encoded reference genomes
-The reference-genome index structures that Arioc uses are binary-encoded lookup tables. Several interesting Arioc-encoded genomes ~~are~~ will soon be available for download:
+The reference-genome index structures that Arioc uses are binary-encoded lookup tables. Several interesting Arioc-encoded genomes ~~are~~ will soon be available for download from the FTP server of the Center for Computational Biology at Johns Hopkins University at [ftp://ftp.ccb.jhu.edu/pub/data/Arioc](ftp://ftp.ccb.jhu.edu/pub/data/Arioc):
 
-| genome | file | content |
+| genome | subdirectory | content |
 |-|-|-|
-| H sapiens | GRCh38.p13.zip | NCBI GRCh38 patch 13 (WGS) |
-| H sapiens | GRCh38.p13.zip | NCBI GRCh38 patch 13 (WGBS) |
-| S cerevisiae | S_cerevisiae.zip |  S288C |
+| H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGS) |
+| H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGBS) |
+| S cerevisiae | S_cerevisiae.zip | S288C |
 | T aestivum | Triticum_40.zip | NCBI GCA_002220425.3 |
 
 #### Related publications
