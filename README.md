@@ -5,7 +5,7 @@ Download the current release [here](https://github.com/RWilton/Arioc/releases "A
 Download the Arioc user guide [here](https://github.com/RWilton/Arioc/blob/master/Arioc.guide.pdf "Arioc user guide") or as part of the current release.
 
 #### Arioc-encoded reference genomes
-The Arioc aligners use binary encoded lookup tables as reference genome indexes. For convenience, several Arioc-encoded genomes are available for download from the FTP server of the Center for Computational Biology at Johns Hopkins University ([ftp://ftp.ccb.jhu.edu/pub/data/Arioc](https://tinyurl.com/AriocFTP)).
+The Arioc aligners use binary encoded lookup tables as reference genome indexes. For convenience, several Arioc-encoded genomes are available for download at [ftp://ftp.ccb.jhu.edu/pub/data/Arioc](https://tinyurl.com/AriocFTP), the FTP server of the Center for Computational Biology at Johns Hopkins University.
 
 | genome | subdirectory | content |
 |-|-|-|
