@@ -1,14 +1,17 @@
 ### Arioc:  GPU-accelerated DNA short-read alignment
 
-The Arioc software is documented in the user guide.  Download the user guide directly (click [here](https://github.com/RWilton/Arioc/blob/master/Arioc.guide.pdf "Arioc user guide")) or as part of the current release (click [here](https://github.com/RWilton/Arioc/releases "Arioc releases")).
+Download the current release [here](https://github.com/RWilton/Arioc/releases "Arioc releases").
+
+Download the Arioc user guide [here](https://github.com/RWilton/Arioc/blob/master/Arioc.guide.pdf "Arioc user guide") or as part of the current release.
 
 #### Arioc-encoded reference genomes
-The Arioc aligners use binary encoded lookup tables as reference genome indexes. For convenience, several interesting Arioc-encoded genomes are available for download from the FTP server of the Center for Computational Biology at Johns Hopkins University ([ftp://ftp.ccb.jhu.edu/pub/data/Arioc](https://tinyurl.com/AriocFTP)).
+The Arioc aligners use binary encoded lookup tables as reference genome indexes. For convenience, several Arioc-encoded genomes are available for download from the FTP server of the Center for Computational Biology at Johns Hopkins University ([ftp://ftp.ccb.jhu.edu/pub/data/Arioc](https://tinyurl.com/AriocFTP)).
 
 | genome | subdirectory | content |
 |-|-|-|
 | H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGS) |
 | H sapiens | H_sapiens | NCBI GRCh38 patch 12 (WGBS) |
+| M musculus | M_musculus | NCBI GRCm38 patch 6 |
 | S cerevisiae | S_cerevisiae | S288C |
 | T aestivum | T_aestivum | NCBI GCA_002220425.3 (Triticum 4.0) |
 
