@@ -18,3 +18,6 @@ The Arioc aligners use binary encoded lookup tables as reference genome indexes.
 Wilton R, Budavari T, Langmead B, Wheelan SJ, Salzberg SL, Szalay AS.  **Arioc: high-throughput read alignment with GPU-accelerated exploration of the seed-and-extend search space.**  *PeerJ*. 2015, **3**:e808. [DOI:10.7717/peerj.808](https://doi.org/10.7717/peerj.808)
 
 Wilton R, Li X, Feinberg AP, Szalay AS.  **Arioc: GPU-accelerated alignment of short bisulfite-treated reads.**  *Bioinformatics*. 2018, **34**:1-3. [DOI:10.1093/bioinformatics/bty167](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty167/4938491?guestAccessKey=72ccdf78-07ee-487c-bf0f-e55da2ed867c)
+
+Wilton R, Szalay AS.  **Arioc: High-concurrency short-read alignment on multiple GPUs.**  *PLoS Comput Biol*. 2020, **16**(11):e1008383. [DOI:10.1093/10.1371/journal.pcbi.1008383](https://doi.org/10.1371/journal.pcbi.1008383)
+
