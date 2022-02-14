@@ -9,7 +9,7 @@ The Arioc aligners use binary encoded lookup tables as reference genome indexes.
 
 | genome | subdirectory | content |
 |-|-|-|
-| H sapiens | H_sapiens | NCBI GRCh38 patch 13 (WGS, WGBS) |
+| H sapiens | H_sapiens | NCBI GRCh38: patch 14 (WGS); patch 13 (WGS, WGBS) |
 | M musculus | M_musculus | NCBI GRCm39 |
 | S cerevisiae | S_cerevisiae | S288C |
 | T aestivum | T_aestivum | NCBI GCA_002220425.3 (Triticum 4.0) |
