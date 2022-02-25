@@ -21,4 +21,5 @@ Wilton R, Li X, Feinberg AP, Szalay AS.  **Arioc: GPU-accelerated alignment of s
 
 Wilton R, Szalay AS.  **Arioc: High-concurrency short-read alignment on multiple GPUs.**  *PLoS Comput Biol*. 2020, **16**(11):e1008383. [DOI:10.1093/10.1371/journal.pcbi.1008383](https://doi.org/10.1371/journal.pcbi.1008383)
 
-Wilton R, Szalay AS.  **Performance optimization in DNA short-read alignment.**  *Bioinformatics*. 2022, (in press). [DOI:10.1093/bioinformatics/btac066](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac066/6525215?guestAccessKey=2dd3d9e7-68ed-4624-a53d-381706e58046)
+Wilton R, Szalay AS.  **Performance optimization in DNA short-read alignment.**  *Bioinformatics*. 2022, (in press). [DOI:10.1093/bioinformatics/btac066](https://doi.org/10.1093/bioinformatics/btac066)
+
