@@ -9,10 +9,10 @@ The Arioc aligners use binary encoded lookup tables as reference genome indexes.
 
 | genome | subdirectory | content |
 |-|-|-|
-| H sapiens | H_sapiens | NCBI GRCh38: patch 14 (WGS); patch 13 (WGS, WGBS) |
-| M musculus | M_musculus | NCBI GRCm39 |
-| S cerevisiae | S_cerevisiae | S288C |
-| T aestivum | T_aestivum | NCBI GCA_002220425.3 (Triticum 4.0) |
+| H&nbsp;sapiens | H_sapiens | NCBI GRCh38: patch 14 (WGS); patch 13 (WGS, WGBS) |
+| M&nbsp;musculus | M_musculus | NCBI GRCm39 |
+| S&nbsp;cerevisiae | S_cerevisiae | S288C |
+| T&nbsp;aestivum | T_aestivum | NCBI GCA_002220425.3 (Triticum 4.0) |
 
 #### Related publications
 Wilton R, Budavari T, Langmead B, Wheelan SJ, Salzberg SL, Szalay AS.  **Arioc: high-throughput read alignment with GPU-accelerated exploration of the seed-and-extend search space.**  *PeerJ*. 2015, **3**:e808. [DOI:10.7717/peerj.808](https://doi.org/10.7717/peerj.808)
